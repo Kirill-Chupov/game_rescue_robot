@@ -3,7 +3,7 @@
 #include "ui_mainwindow.h"
 #include "utility/painter.h"
 #include "utility/darkeners.h"
-#include <prac/QTimer>
+#include <../mocks_library/prac/QTimer>
 
 
 MainWindow::MainWindow(Game& game, Controller& controller, QWidget *parent)

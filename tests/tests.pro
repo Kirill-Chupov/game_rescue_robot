@@ -1,5 +1,5 @@
 ########
-MOCK_LIB=../../../../mocks_library
+MOCK_LIB=../mocks_library
 ########
 
 QT += testlib
